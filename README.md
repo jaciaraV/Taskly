@@ -41,7 +41,7 @@ cd taskly
 npm install
 
 # Run the application in development mode
-npm start
+npm run test
 
 # Run tests
 npm run test
